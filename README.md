@@ -81,6 +81,10 @@
 ## 📈 GitHub Activity
 
 <p align="center">
+  <img src="https://ghchart.rshah.org/6c63ff/imadabathinisowjanya" alt="Contribution grid" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=imadabathinisowjanya&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="GitHub streak" />
 </p>
 
