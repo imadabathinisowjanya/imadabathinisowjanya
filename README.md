@@ -81,20 +81,14 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imadabathinisowjanya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=21600" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadabathinisowjanya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=imadabathinisowjanya&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imadabathinisowjanya&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/6c63ff/imadabathinisowjanya" alt="Contribution chart (backup)" />
+  <a href="https://github.com/imadabathinisowjanya?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20all-6c63ff?style=for-the-badge&logo=github" alt="Repositories" /></a>
+  <img src="https://img.shields.io/badge/Main%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Main language: Python" />
+  <img src="https://img.shields.io/badge/Focus-Generative%20AI-FF6F61?style=for-the-badge" alt="Focus: Generative AI" />
+  <img src="https://img.shields.io/badge/Learning%20in%20Public-Daily%20Commits-00A67E?style=for-the-badge" alt="Learning in public" />
 </p>
 
 ---
@@ -111,10 +105,6 @@ class Sowjanya:
     def goal(self):
         return "Build useful AI applications and grow as an engineer"
 ```
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
-</p>
 
 ---
 
