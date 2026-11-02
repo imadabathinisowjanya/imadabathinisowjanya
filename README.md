@@ -140,12 +140,12 @@ An AI-powered PDF question-answering application built using Retrieval-Augmented
 
 ---
 
+
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=imadabathinisowjanya&theme=tokyonight&no-frame=true&no-bg=true&column=6)
-
+<img src="https://trophy.ryglcloud.net/?username=imadabathinisowjanya&theme=tokyonight&no-frame=true&no-bg=true&column=6" width="100%" alt="GitHub Trophies"/>
 </div>
 
 ---
