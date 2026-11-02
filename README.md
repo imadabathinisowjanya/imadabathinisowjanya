@@ -141,10 +141,13 @@ An AI-powered PDF question-answering application built using Retrieval-Augmented
 ---
 
 
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
-<img src="https://trophy.ryglcloud.net/?username=imadabathinisowjanya&theme=tokyonight&no-frame=true&no-bg=true&column=6" width="100%" alt="GitHub Achievements"/>
+
+<img src="https://trophy.ryglcloud.net/?username=imadabathinisowjanya&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=15" width="100%" alt="GitHub Achievements"/>
+
 </div>
 ---
 
