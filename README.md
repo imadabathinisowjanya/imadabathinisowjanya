@@ -130,13 +130,11 @@ An AI-powered PDF question-answering application built using Retrieval-Augmented
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=imadabathinisowjanya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imadabathinisowjanya&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadabathinisowjanya&layout=compact&theme=tokyonight&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imadabathinisowjanya&layout=compact&theme=tokyonight&hide_border=true)
 
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=imadabathinisowjanya&theme=tokyonight&hide_border=true" />
+![GitHub Streak](https://streak-stats.demolab.com?user=imadabathinisowjanya&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -146,7 +144,7 @@ An AI-powered PDF question-answering application built using Retrieval-Augmented
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=imadabathinisowjanya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=imadabathinisowjanya&theme=tokyonight&no-frame=true&no-bg=true&column=6)
 
 </div>
 
